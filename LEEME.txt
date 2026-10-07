@@ -1,0 +1,7 @@
+METS — Home
+
+Archivos principales: index.html, styles.css y app.js.
+Mantén la carpeta assets junto a estos archivos.
+Para publicarlo, sube todo el contenido del ZIP a tu hosting.
+Los vídeos de Vimeo y las fuentes de Google requieren conexión a internet.
+El formulario prepara un correo; no tiene backend de envío.
